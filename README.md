@@ -386,7 +386,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Md. Mehedi Hasan Shuvo**
-- **Role**: Aspiring AI Engineer & Researcher
+- Aspiring AI Engineer & Researcher
 - **Institution**: American International University–Bangladesh (AIUB)
 - **Major**: Computer Science and Engineering (Information Systems)
 - **Focus**: Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Computer Vision
